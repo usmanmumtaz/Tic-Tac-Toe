@@ -6,3 +6,6 @@ I wrote this code 2 years ago so now I am finding difficulty in adding comments 
 Right now I am uploading total code as it is.
 As soon as I find some free time, I will break my code in multiple commits.
 Right now I am uploading it just to get started with GitHub.
+.
+If you are finding difficulty with getting started with my game, Read "How to play" in which I have provided instructions.
+Happy Gaming.
